@@ -1,4 +1,4 @@
-package first_app
+package firstapp
 
 import "fmt"
 
