@@ -1,3 +1,3 @@
-module github.com/xscavx/first_app
+module github.com/xscavx/firstapp
 
 go 1.15
