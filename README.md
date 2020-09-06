@@ -1,2 +1,2 @@
-# first_app
+# firstapp
 go first app
